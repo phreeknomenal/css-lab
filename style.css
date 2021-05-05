@@ -1,0 +1,34 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* Basic Styles
+================================================== */
+body {      background-color: #999;}
+
+
+.boxes {     width: 30em; display: block; margin: 10px; padding: 20px; border-radius: 10px; border: 5px solid #f00; background-color: #ddd;}
+#box1 {     background-color: #2ca;}
+#box2 {     background-color: #ac2;}
+#box3 {     background-color: #ca2;}
+#box4 {     background-color: #2ac;}
+.placehold {width: 50px; height: 50px; border-radius: 50px; background-color: #f09;}
+.wrap {     border: 2px solid #000;}
+
+/* Typography Styles
+================================================== */
+body {                      font-family: 'Montserrat';}
+h2, p, .readme-wrapper {    text-align: center;}
+a {                         text-decoration: none; color: #f9a;}
+a:hover {                   font-weight: bold; cursor: pointer; color: #9fc;}
+span {                      font-weight: bold; color: #aaf;}
+h1 {                color: #4f6;}
+h1.original {              color: #306;}
+h1.additional {              color: #faf;}
+h1#show1 {                  color: #774;}
+h1#show2 {                  color: #205;}
+h1#show3 {                  color: #334;}
+h1#show4 {                  color: #251;}
+h1#show5 {                  color: #901;}
+ul {                        color: #757;}
+ul.star {                   color: #410;}
+ul#wars {                   color: #937;}
